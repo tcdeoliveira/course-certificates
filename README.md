@@ -17,3 +17,6 @@ https://cursos.alura.com.br/certificate/057c2ce3-d7d9-4da2-96cd-9badc45ec8e6
 https://cursos.alura.com.br/certificate/9f5b3796-f44c-4b34-808f-4f1a7ee7769c 
 
 Git repository: https://github.com/tcdeoliveira/alura-typescript-1
+
+## C# Intermediate: Classes, Interfaces and OOP
+https://udemy-certificate.s3.amazonaws.com/image/UC-37714266-bbb0-4e55-a766-970facc23105.jpg?v=1657199919000
