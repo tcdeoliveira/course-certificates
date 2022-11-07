@@ -20,3 +20,12 @@ Git repository: https://github.com/tcdeoliveira/alura-typescript-1
 
 ## C# Intermediate: Classes, Interfaces and OOP
 https://udemy-certificate.s3.amazonaws.com/image/UC-37714266-bbb0-4e55-a766-970facc23105.jpg?v=1657199919000
+
+## ENTITY FRAMEWORK CORE: DATABASE EFFICIENTLY
+https://cursos.alura.com.br/certificate/78c36659-a8be-4473-b6a2-98f5e4a24a24
+
+## HTTP: ENTENDENDO A WEB POR BAIXO DOS PANOS
+https://cursos.alura.com.br/certificate/bf73ff78-81a2-41ce-81e5-03b49adefa0b
+
+## C#: Exploring the Language
+https://cursos.alura.com.br/certificate/20a2fe93-8323-4566-9de2-b71e6edf7f26
