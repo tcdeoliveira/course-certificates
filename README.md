@@ -29,3 +29,7 @@ https://cursos.alura.com.br/certificate/bf73ff78-81a2-41ce-81e5-03b49adefa0b
 
 ## C#: Exploring the Language
 https://cursos.alura.com.br/certificate/20a2fe93-8323-4566-9de2-b71e6edf7f26
+
+## Rest API with .NET 5: Essential Operations with HTTP Verbs
+https://cursos.alura.com.br/certificate/f6883527-48a8-4137-b708-868df78325ae
+* Source code: https://github.com/tcdeoliveira/alura-dotnet5-rest
