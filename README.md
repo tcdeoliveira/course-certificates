@@ -33,3 +33,6 @@ https://cursos.alura.com.br/certificate/20a2fe93-8323-4566-9de2-b71e6edf7f26
 ## Rest API with .NET 5: Essential Operations with HTTP Verbs
 https://cursos.alura.com.br/certificate/f6883527-48a8-4137-b708-868df78325ae
 * Source code: https://github.com/tcdeoliveira/alura-dotnet5-rest
+
+## Docker Container creation and management
+https://cursos.alura.com.br/user/tcdeoliveira/course/docker-criando-gerenciando-containers/certificate
