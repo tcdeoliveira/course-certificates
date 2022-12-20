@@ -39,3 +39,6 @@ https://cursos.alura.com.br/user/tcdeoliveira/course/docker-criando-gerenciando-
 
 ## AGILITY: PROMOTING AGILE TRANSFORMATION 
 https://cursos.alura.com.br/certificate/1327c910-ad9d-4296-8511-79ed74ad4528
+
+## ADVANCING WITH PHP: ARRAYS, STRINGS, FUNCTIONS AND WEB
+https://cursos.alura.com.br/certificate/10632fea-7c1c-4dc4-b530-38242a87df6d
